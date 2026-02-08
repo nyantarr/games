@@ -1,0 +1,5 @@
+ncplatform.net
+guildwars2.com
+staticwars.com
+ua.ncsoft.com
+s3.amazonaws.com
