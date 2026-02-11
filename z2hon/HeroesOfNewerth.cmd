@@ -1,4 +1,4 @@
-start "zapret2: tome4" /min "%~dp0winws2.exe" ^
+start "zapret2: hon" /min "%~dp0winws2.exe" ^
 --lua-init=@"%~dp0lua\zapret-lib.lua" --lua-init=@"%~dp0lua\zapret-antidpi.lua" ^
 --wf-tcp-out=443 --wf-udp-out=10100-10150,11000-12999 ^
 
